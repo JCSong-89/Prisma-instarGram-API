@@ -1,0 +1,4 @@
+
+type Query {
+    messageRoom(id: String!): Room!
+}
