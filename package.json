@@ -16,7 +16,7 @@
     "jsonwebtoken": "^8.5.1",
     "merge-graphql-schemas": "1.7.3",
     "morgan": "^1.9.1",
-    "nodemailer": "^6.4.5",
+    "nodemailer": "^6.4.16",
     "nodemailer-mailgun-transport": "^2.0.0",
     "nodemailer-sendgrid-transport": "^0.2.0",
     "nodemon": "^2.0.2",
